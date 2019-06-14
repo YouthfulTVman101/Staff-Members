@@ -1,5 +1,5 @@
 <h1>Oofs Of Robloxia Staff Members</h1>
-All members of our great staff team are listed down below!
+<p>All members of our great staff team are listed down below!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
 <h2>Grand Lord Of Oofs</h2>
