@@ -43,3 +43,10 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
   <li>SonnyCPP</li>
   <li>Themilkybunny</li>
 </ul>
+
+<h2>Former Staff Members</h2>
+
+<ul>
+  <li>SomeArkhamFan</li>
+  <li>X_z8Y</li>
+</ul>
