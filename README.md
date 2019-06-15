@@ -11,7 +11,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <h2>Lord Of Oofs</h2>
 
 <ul>
-  <li>Pikato</li>
+  <li>Leo</li>
 </ul>
 
 <h2>Head-Admin Oofs</h2>
