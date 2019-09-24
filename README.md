@@ -21,7 +21,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <ul>
   <li>Benny1298</li>
   <li>EvilDogeyLord</li>
-<ul>
+</ul>
 
 <h2>Head-Admin Oofs</h2>
 
