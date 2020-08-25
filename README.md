@@ -2,6 +2,51 @@
 <p>All members of our great staff team are listed down below!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h1>3.0 Staff List</h1>
+
+<h2>The Almighty Oof</h2>
+
+<ul>
+  <li>YouthfulTVman101</li>
+</ul>
+
+<h2>Grand Lord Of Oofs</h2>
+
+<ul>
+  <li>Leo</li>
+</ul>
+
+<h2>Lord Of Oofs</h2>
+
+<ul>
+  <li>Benny1298</li>
+  <li>EvilDogeyLord</li>
+</ul>
+
+<h2>Head-Admin Oofs</h2>
+
+<ul>
+  <li>aw man</li>
+  <li>Meerkitten</li>
+  <li>TheLordOfBloxyColas</li>
+</ul>
+
+<h2>Admin Oofs</h2>
+
+<h3>None</h3>
+
+<h2>Head-Mod Oofs</h2>
+
+<h3>None</h3>
+
+<h2>Moderator Oofs</h2>
+
+<h3>None</h3>
+
+<h2>Former Staff Members</h2>
+
+<h3>None</h3>
+
 <h1>2.0 Staff List</h1>
 
 <h2>The Almighty Oof</h2>
@@ -13,7 +58,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <h2>Grand Lord Of Oofs</h2>
 
 <ul>
-  <li>Shadoli</li>
+  <li>Leo</li>
 </ul>
 
 <h2>Lord Of Oofs</h2>
